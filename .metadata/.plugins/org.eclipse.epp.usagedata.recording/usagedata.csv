@@ -1,0 +1,29 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1328182151266
+started,bundle,org.eclipse.wb.discovery.core,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.core",1328182151267
+started,bundle,org.eclipse.wb.discovery.ui,1.1.0.r37x201109091028,"org.eclipse.wb.discovery.ui",1328182151268
+os,sysinfo,,,"win32",1328182151275
+arch,sysinfo,,,"x86",1328182151275
+ws,sysinfo,,,"win32",1328182151275
+locale,sysinfo,,,"de_DE",1328182151275
+processors,sysinfo,,,"4",1328182151275
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1328182151275
+java.runtime.version,sysinfo,,,"1.6.0_30-b12",1328182151275
+java.specification.name,sysinfo,,,"Java Platform API Specification",1328182151275
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1328182151275
+java.specification.version,sysinfo,,,"1.6",1328182151275
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1328182151275
+java.version,sysinfo,,,"1.6.0_30",1328182151276
+java.vm.info,sysinfo,,,"mixed mode, sharing",1328182151276
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1328182151276
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1328182151276
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1328182151276
+java.vm.specification.version,sysinfo,,,"1.0",1328182151276
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1328182151276
+java.vm.version,sysinfo,,,"20.5-b03",1328182151276
+started,bundle,org.eclipse.m2e.usagedata,1.0.100.20110804-1717,"org.eclipse.m2e.usagedata",1328182151318
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1328182152567
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1328182152598
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1328182152614
+closed,view,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.internal.introview",1328182152645
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1328182153175
